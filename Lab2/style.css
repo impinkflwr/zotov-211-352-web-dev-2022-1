@@ -1,0 +1,65 @@
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+
+	background-image: url("images/background-1.png");
+	background-size: 100%;
+}
+
+main {
+	text-align: center;
+}
+
+.fio {
+	margin-bottom: 10px;
+}
+
+fieldset {
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+}
+
+legend {
+	display: inline-block;
+}
+
+textarea {
+ 	margin-bottom: 10px;
+ 	resize: none;
+}
+
+.options {
+	margin-bottom: 10px;
+}
+
+.msg {
+	vertical-align: top;
+}
+
+.agreement {
+	margin-bottom: 10px;
+}
+
+.attach {
+	margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.login {
+	margin-bottom: 10px;
+}
+
+.remember {
+	margin-top: 10px;
+}
+
+.logbtn {
+	margin-top: 10px;
+}
+
