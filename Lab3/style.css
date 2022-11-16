@@ -3,6 +3,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	font-family: 'Roboto', sans-serif;
 	background-color: lightgray;
+
 }
 
 a {
@@ -16,6 +17,11 @@ fieldset {
 
 legend {
 	font-weight: bold;
+}
+
+.login {
+	text-align: center;
+	margin-top: 40px;
 }
 
 .header {
@@ -63,10 +69,6 @@ legend {
 
 .page-content {
 	padding-left: 1rem;
-}
-
-.products-category-header {
-	margin-top: 0;
 }
 
 .product-list {
